@@ -14,4 +14,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     install_requires=["requests"],
     py_modules=["nextcloudmonitor"],
+    classifiers=[
+        "License :: OSI Approved :: MIT License",
+    ],
 )
