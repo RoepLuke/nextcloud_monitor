@@ -16,5 +16,13 @@ setuptools.setup(
     py_modules=["nextcloudmonitor"],
     classifiers=[
         "License :: OSI Approved :: MIT License",
+        "Development Status :: 5 - Production/Stable",
+        "License :: OSI Approved :: MIT License",
+        "Natural Language :: English",
+        "Operating System :: OS Independent",
+        "Programming Language :: Python :: 3",
+        "Topic :: System :: Networking"
+    ],
+    url="https://github.com/meichthys/nextcloud_monitor"
     ],
 )
