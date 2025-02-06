@@ -22,6 +22,5 @@ setuptools.setup(
         "Programming Language :: Python :: 3",
         "Topic :: System :: Networking"
     ],
-    url="https://github.com/meichthys/nextcloud_monitor"
-    ],
+    url="https://github.com/meichthys/nextcloud_monitor",
 )
